@@ -34,6 +34,8 @@ border-radius: 5px;
 .nav_logo {
     font-weight: bold;
     font-size: 30px;
+    margin: 0px 120px;
+
 }
 
 .name {
@@ -44,6 +46,7 @@ border-radius: 5px;
     display: flex;
     align-items: center;
     gap: 30px;
+    margin: 0px 180px;
 }
 
 .link {
@@ -74,6 +77,7 @@ border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 100px;
 }
 
 .left_section {
@@ -139,13 +143,14 @@ border-radius: 5px;
 
 /* my_intro */
 
-.my_intro {
+.my_intro   {
     text-align: center;
+    
 }
 .what {
     font-weight: bold;
     font-size: 30px;
-    margin-bottom: 30px;
+     margin-bottom: 30px;
 }
 .description {
     color: #757575;
@@ -175,4 +180,46 @@ border-radius: 5px;
 }
 .card-description {
     color: #757575;
+}
+/* main part2 */
+.header-one{
+      margin-bottom: 25px;
+}
+.position {
+    color: #474747;
+    margin-top: 40px;
+    
+}
+
+.prhg {
+    color: #757575;
+    margin-top: 8px;
+    margin-bottom: 15px;
+
+}
+ .my-class {
+    display: flex;
+    justify-content:space-around;
+    max-width: 1140px;
+    margin: 30px auto;
+    gap: 24px;
+    
+
+}
+.dwld{
+     display: flex;
+      align-items: center; 
+      justify-content:center; 
+      margin-top: 20px ;
+
+}
+.container{
+      color: white;
+    background-color: #FD6E0A;
+    padding: 15px;
+    font-weight: semi-bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+ 
 }
